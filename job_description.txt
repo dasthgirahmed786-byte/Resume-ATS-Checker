@@ -1,0 +1,36 @@
+Job Title: Entry-Level Python Developer
+Company: Sample Software Company
+Location: India
+Experience: Freshers / 0-1 year
+
+Job Summary:
+We are looking for an enthusiastic Entry-Level Python Developer to join our software development team. The candidate should have basic knowledge of Python programming, problem-solving skills, and an interest in developing software applications. Fresh graduates are welcome to apply.
+
+Key Responsibilities:
+1. Write, test, debug, and maintain Python programs.
+2. Develop simple software applications.
+3. Work with Python data types, lists, dictionaries, and functions.
+4. Apply object-oriented programming concepts.
+5. Use SQL to retrieve and manage data.
+6. Identify and fix errors in code.
+7. Participate in software testing.
+8. Use Git and GitHub to manage source code.
+
+Required Skills:
+- Python programming
+- Data structures and algorithms
+- Object-oriented programming
+- SQL and databases
+- Debugging and software testing
+- Git and GitHub
+- Problem-solving and communication skills
+
+Education:
+Bachelor's degree in Computer Science, Information Technology, Electronics and Communication Engineering, or a related discipline. Fresh graduates may apply.
+
+Preferred Qualifications:
+- Python academic or personal projects
+- Basic understanding of SDLC
+- Willingness to learn new technologies
+
+Note: This is a sample job description for testing a Resume ATS Checker. It is not an official job vacancy.
